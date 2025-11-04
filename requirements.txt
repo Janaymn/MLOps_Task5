@@ -1,6 +1,6 @@
 fastapi
 uvicorn[standard]
 requests
-gradio==4.28.3
+gradio==4.44.1
 ollama
 python-dotenv
